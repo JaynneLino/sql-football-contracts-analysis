@@ -14,12 +14,12 @@ The goal was to create a robust structure to track professional relationships in
   - **Aggregations:** KPI calculation (average age, total career years, contract counts).
   - **Subqueries:** Correlated and Non-Correlated subqueries for deep filtering.
 
+![Database Diagram](erd_diagram.png)
+
 ## 🔍 Key Insights Solved
 1. Identifying players without active contracts.
 2. Ranking scouts by their contract intermediation volume.
 3. Filtering clubs where the entire squad meets specific career experience criteria.
-
-![Database Diagram](erd_diagram.png)
 
 ## 📂 How to run
 1. Run `tables.sql` to create the structure.
