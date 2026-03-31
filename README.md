@@ -19,6 +19,8 @@ The goal was to create a robust structure to track professional relationships in
 2. Ranking scouts by their contract intermediation volume.
 3. Filtering clubs where the entire squad meets specific career experience criteria.
 
+![Database Diagram](erd_diagram.png)
+
 ## 📂 How to run
 1. Run `tables.sql` to create the structure.
 2. Run `inserts.sql` to populate the database.
